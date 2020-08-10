@@ -1,0 +1,18 @@
+{
+  "name": "sorrow-poetry/schema-generator",
+  "description": "simple package to test composer",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "SorrowPoetry\\SchemaGenerator\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "vahid mohammadi",
+      "email": "vahid.m.dev@gmail.com"
+    }
+  ],
+  "require": {}
+}
